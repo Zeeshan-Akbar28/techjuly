@@ -1,0 +1,24 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}
+.col-3{
+	width: 30%;
+	border: 1px solid black;
+	display: inline-block;
+}
+.col-7{
+	border: 1px solid darkred;
+	width: 69%;
+	display: inline-block;
+}
+.logo-wapper{
+	float: left;
+}
+.nav-wrapper {
+	float: right;
+}
+ul li{
+	display: inline-block;
+}
